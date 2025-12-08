@@ -1,0 +1,90 @@
+.type{
+    margin:10px;
+    background-image: url(images/pexels-hikaique-775201.jpg);
+    color:azure;
+}
+nav{
+    background-color: black;
+    color:beige;
+    padding:10px;
+}
+ul,li,h1{
+    display:inline;
+}
+h1{
+    color:antiquewhite;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color:gray;
+    cursor: pointer;
+}
+li:hover{
+    color:antiquewhite;
+}
+input{
+    width:50%;
+    padding:10px;
+}
+.searchbar{
+    padding:30px;
+
+}
+.one{
+    border: black solid 5px;
+    display:inline-block;
+    width:400px;
+    padding:10px;
+    margin:20px;
+}
+.two{
+    border: black solid 5px;
+    display:inline-block;
+    width:400px;
+     padding:10px;
+     margin:20px;
+}
+
+.three{
+    border: black solid 5px;
+    display:inline-block;
+    width:400px;
+    padding:10px;
+    margin:20px;
+}
+
+.nature{
+    text-align: center;
+    padding:30px;
+}
+.one:hover{
+    cursor: pointer;
+    color:antiquewhite;
+    background-color: grey;
+}
+.two:hover{
+    cursor: pointer;
+    color:antiquewhite;
+    background-color: grey;
+}
+.three:hover{
+    cursor: pointer;
+    color:antiquewhite;
+    background-color: grey;
+}
+.about{
+    padding:20px;
+   
+    color:azure;
+    text-align: center;
+}
+.contact{
+    padding:20px;
+    color: antiquewhite;
+    text-align: center;
+}
+.ac{
+   background-color: black;
+}
